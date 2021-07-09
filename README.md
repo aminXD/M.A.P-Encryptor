@@ -11,6 +11,5 @@ Steps Work Of This Tool:
 # Does It Secure🤔?
 SomeWhat But Not Completely Secure! BruteForce Operation Of This Password Is Long But Finally Will Be Done!
 # 🔥IMPORTANT NOTE🔥
-## **Dont Encrypto And Save Your Personal data (CryptoCurrencies Password, Bank Account Details, etc...) By This Encryptor!
-Its Just A Simple Encryptor.**
+## ** Dont Encrypto And Save Your Personal data (CryptoCurrencies Password, Bank Account Details, etc...) By This Encryptor! Its Just A Simple Encryptor. **
 Anyway, I Recommend Understand How It Work (Good For People Want Make Encryptor) By Source Code.
